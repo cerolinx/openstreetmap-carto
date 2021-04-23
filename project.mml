@@ -33,6 +33,8 @@ _parts:
     dbname: "gis"
     port: "5433"
     host: "localhost"
+    user: "renderer"
+    password: "renderer"
     key_field: ""
     geometry_field: "way"
     extent: "-20037508,-20037508,20037508,20037508"
